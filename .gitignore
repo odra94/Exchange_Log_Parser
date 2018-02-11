@@ -1,3 +1,10 @@
 venv/
 .idea
+odra94_auth-dc.log
+odra94_exchange-eas.log
+odra94_exchange-ews.log
+odra94_exchange-iis.log
+odra94_exchange-owa.log
+output.txt
+
 
