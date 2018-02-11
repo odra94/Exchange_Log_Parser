@@ -1,7 +1,7 @@
 # Exchange Log Parser
-##By: Oscar Reyes
+## By: Oscar Reyes
 
-###Required: Python 3.6 
+### Required: Python 3.6 
 
 I created this program for work because we analyze different types of exchange logs. In our case we analyze IIS,  
 OWA, EWS and EAS logs. All these logs have entries that are separated by commas and semicolons. This program  
